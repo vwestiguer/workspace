@@ -1,0 +1,13 @@
+C:\Temp\wc-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.exe
+C:\Temp\wc-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.deps.json
+C:\Temp\wc-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.runtimeconfig.json
+C:\Temp\wc-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.runtimeconfig.dev.json
+C:\Temp\wc-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.dll
+C:\Temp\wc-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.pdb
+C:\Temp\wc-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.csprojAssemblyReference.cache
+C:\Temp\wc-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.AssemblyInfoInputs.cache
+C:\Temp\wc-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.AssemblyInfo.cs
+C:\Temp\wc-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.csproj.CoreCompileInputs.cache
+C:\Temp\wc-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.dll
+C:\Temp\wc-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.pdb
+C:\Temp\wc-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598907006 source:c:\temp\ws-cb\nomes\main.c
+	<stdio.h>
+	<stdlib.h>
+

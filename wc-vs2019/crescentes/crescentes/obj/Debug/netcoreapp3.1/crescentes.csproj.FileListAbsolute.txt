@@ -1,0 +1,12 @@
+C:\Temp\wc-vs2019\crescentes\crescentes\bin\Debug\netcoreapp3.1\crescentes.exe
+C:\Temp\wc-vs2019\crescentes\crescentes\bin\Debug\netcoreapp3.1\crescentes.deps.json
+C:\Temp\wc-vs2019\crescentes\crescentes\bin\Debug\netcoreapp3.1\crescentes.runtimeconfig.json
+C:\Temp\wc-vs2019\crescentes\crescentes\bin\Debug\netcoreapp3.1\crescentes.runtimeconfig.dev.json
+C:\Temp\wc-vs2019\crescentes\crescentes\bin\Debug\netcoreapp3.1\crescentes.dll
+C:\Temp\wc-vs2019\crescentes\crescentes\bin\Debug\netcoreapp3.1\crescentes.pdb
+C:\Temp\wc-vs2019\crescentes\crescentes\obj\Debug\netcoreapp3.1\crescentes.AssemblyInfoInputs.cache
+C:\Temp\wc-vs2019\crescentes\crescentes\obj\Debug\netcoreapp3.1\crescentes.AssemblyInfo.cs
+C:\Temp\wc-vs2019\crescentes\crescentes\obj\Debug\netcoreapp3.1\crescentes.csproj.CoreCompileInputs.cache
+C:\Temp\wc-vs2019\crescentes\crescentes\obj\Debug\netcoreapp3.1\crescentes.dll
+C:\Temp\wc-vs2019\crescentes\crescentes\obj\Debug\netcoreapp3.1\crescentes.pdb
+C:\Temp\wc-vs2019\crescentes\crescentes\obj\Debug\netcoreapp3.1\crescentes.genruntimeconfig.cache

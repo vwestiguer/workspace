@@ -1,0 +1,13 @@
+C:\Temp\wc-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.csprojAssemblyReference.cache
+C:\Temp\wc-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfoInputs.cache
+C:\Temp\wc-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfo.cs
+C:\Temp\wc-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.csproj.CoreCompileInputs.cache
+C:\Temp\wc-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.exe
+C:\Temp\wc-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.deps.json
+C:\Temp\wc-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.json
+C:\Temp\wc-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.dev.json
+C:\Temp\wc-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.dll
+C:\Temp\wc-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.pdb
+C:\Temp\wc-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.dll
+C:\Temp\wc-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.pdb
+C:\Temp\wc-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598905691 source:c:\temp\ws-cb\terreno\main.c
+	<stdio.h>
+
+1598905605 source:c:\temp\ws-cb\terreno\idades.c
+	<stdio.h>
+

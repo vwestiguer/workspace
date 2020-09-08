@@ -1,0 +1,12 @@
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.AssemblyInfoInputs.cache
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.AssemblyInfo.cs
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.exe
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.deps.json
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.runtimeconfig.json
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.runtimeconfig.dev.json
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.dll
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.pdb
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.dll
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.pdb
+C:\Temp\wc-vs2019\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.genruntimeconfig.cache

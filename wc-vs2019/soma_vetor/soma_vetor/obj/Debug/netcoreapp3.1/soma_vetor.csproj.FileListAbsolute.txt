@@ -1,0 +1,13 @@
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.csprojAssemblyReference.cache
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.AssemblyInfoInputs.cache
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.AssemblyInfo.cs
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.exe
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.deps.json
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.runtimeconfig.json
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.runtimeconfig.dev.json
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.dll
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.pdb
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.dll
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.pdb
+C:\Temp\wc-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.genruntimeconfig.cache
